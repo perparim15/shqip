@@ -1,874 +1,491 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="--- ALB GENERAL ---" tvg-logo="http://logo.sltv.site/logo/flag/al.png" group-title="AL ALBANIA",--- ALB GENERAL ---
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/135954
-#EXTINF:-1 tvg-id="rtk.al" tvg-name="AL: RTK 1 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/rtk1.png" group-title="AL ALBANIA",AL: RTK 1 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209389
-#EXTINF:-1 tvg-id="rtk.al" tvg-name="AL: RTK 1" tvg-logo="http://logo.sltv.site/logo/ALBANIA/rtk1.png" group-title="AL ALBANIA",AL: RTK 1
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209390
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 2" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTK2.png" group-title="AL ALBANIA",AL: RTK 2
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209391
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 3" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTK3.png" group-title="AL ALBANIA",AL: RTK 3
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3091
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 4" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTK4.png" group-title="AL ALBANIA",AL: RTK 4
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3092
-#EXTINF:-1 tvg-id="rtv21.al" tvg-name="AL: RTV21 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTV21HD.png" group-title="AL ALBANIA",AL: RTV21 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3094
-#EXTINF:-1 tvg-id="rtv21.al" tvg-name="AL: RTV21 FHD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTV21HD.png" group-title="AL ALBANIA",AL: RTV21 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3093
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV21 MAQEDONIA HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTV21HD.png" group-title="AL ALBANIA",AL: RTV21 MAQEDONIA HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209388
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 MAQEDONI" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTV21HD.png" group-title="AL ALBANIA",AL: RTV 21 MAQEDONI
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/135666
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV21 MIX HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTV21MIX.png" group-title="AL ALBANIA",AL: RTV21 MIX HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/135665
-#EXTINF:-1 tvg-id="rtv21plus.al" tvg-name="AL: RTV21 PLUS HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTV21HD.png" group-title="AL ALBANIA",AL: RTV21 PLUS HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3095
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV21 MAQEDONIA HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTV21HD.png" group-title="AL ALBANIA",AL: RTV21 MAQEDONIA HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209388
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 MAQEDONI" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTV21HD.png" group-title="AL ALBANIA",AL: RTV 21 MAQEDONI
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/135666
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV21 MIX HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTV21MIX.png" group-title="AL ALBANIA",AL: RTV21 MIX HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/135665
-#EXTINF:-1 tvg-id="rtv21plus.al" tvg-name="AL: RTV21 PLUS HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTV21HD.png" group-title="AL ALBANIA",AL: RTV21 PLUS HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3095
-#EXTINF:-1 tvg-id="rtv21popullore.al" tvg-name="AL: RTV21 POPULLORE HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTV21HD.png" group-title="AL ALBANIA",AL: RTV21 POPULLORE HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3096
-#EXTINF:-1 tvg-id="rtv21popullore.al" tvg-name="AL: RTV21 POPULLORE" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTV21HD.png" group-title="AL ALBANIA",AL: RTV21 POPULLORE
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/135664
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV PENDEMI HD" tvg-logo="" group-title="AL ALBANIA",AL: RTV PENDEMI HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/380049
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV ALDI" tvg-logo="" group-title="AL ALBANIA",AL: RTV ALDI
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/286878
-#EXTINF:-1 tvg-id="topchannel.al" tvg-name="AL: TOP CHANNEL HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TOPCHANNEL.png" group-title="AL ALBANIA",AL: TOP CHANNEL HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3102
-#EXTINF:-1 tvg-id="topchannel.al" tvg-name="AL: TOP CHANNEL FHD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TOPCHANNEL.png" group-title="AL ALBANIA",AL: TOP CHANNEL FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/227548
-#EXTINF:-1 tvg-id="topchannel.al" tvg-name="AL: TOP CHANNEL HEVC" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TOPCHANNEL.png" group-title="AL ALBANIA",AL: TOP CHANNEL HEVC
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/212401
-#EXTINF:-1 tvg-id="vizionplus.al" tvg-name="AL: VIZION PLUS HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/vizion-plus-al.png" group-title="AL ALBANIA",AL: VIZION PLUS HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3162
-#EXTINF:-1 tvg-id="vizionplus.al" tvg-name="AL: VIZION PLUS FHD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/vizion-plus-al.png" group-title="AL ALBANIA",AL: VIZION PLUS FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/212404
-#EXTINF:-1 tvg-id="klantv.al" tvg-name="AL: TV KLAN HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/KLAN.png" group-title="AL ALBANIA",AL: TV KLAN HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3086
-#EXTINF:-1 tvg-id="klantv.al" tvg-name="AL: TV KLAN FHD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/KLAN.png" group-title="AL ALBANIA",AL: TV KLAN FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/227596
-#EXTINF:-1 tvg-id="klantv.al" tvg-name="AL: TV KLAN HEVC" tvg-logo="http://logo.sltv.site/logo/ALBANIA/KLAN.png" group-title="AL ALBANIA",AL: TV KLAN HEVC
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3085
-#EXTINF:-1 tvg-id="" tvg-name="AL: KLAN KOSOVA HD" tvg-logo="http://logo.sltv.site/logo/L-sat05.01.21/Europe/Albania/klan-kosova-al.png" group-title="AL ALBANIA",AL: KLAN KOSOVA HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301851
-#EXTINF:-1 tvg-id="klankosova.al" tvg-name="AL: KLAN KOSOVA FHD" tvg-logo="http://logo.sltv.site/logo/L-sat05.01.21/Europe/Albania/klan-kosova-al.png" group-title="AL ALBANIA",AL: KLAN KOSOVA FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209384
-#EXTINF:-1 tvg-id="klankosova.al" tvg-name="AL: KLAN KOSOVA HD*" tvg-logo="http://logo.sltv.site/logo/ALBANIA/KLAN_kosova.png" group-title="AL ALBANIA",AL: KLAN KOSOVA HD*
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3188
-#EXTINF:-1 tvg-id="" tvg-name="AL: KTV KOHAVISION HD" tvg-logo="" group-title="AL ALBANIA",AL: KTV KOHAVISION HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301852
-#EXTINF:-1 tvg-id="ktv.al" tvg-name="AL: KTV KOHAVISION FHD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/KTVHD.png" group-title="AL ALBANIA",AL: KTV KOHAVISION FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3087
-#EXTINF:-1 tvg-id="klantv.al" tvg-name="AL: KTV KOHAVISION HEVC" tvg-logo="http://logo.sltv.site/logo/ALBANIA/KTVHD.png" group-title="AL ALBANIA",AL: KTV KOHAVISION HEVC
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/212402
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV DUKAGJINI FHD" tvg-logo="" group-title="AL ALBANIA",AL: TV DUKAGJINI FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301849
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV DUKAGJINI HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/tv_dukagjini.png" group-title="AL ALBANIA",AL: TV DUKAGJINI HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211387
-#EXTINF:-1 tvg-id="" tvg-name="AL: KANAL 10 HD" tvg-logo="" group-title="AL ALBANIA",AL: KANAL 10 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/299235
-#EXTINF:-1 tvg-id="rrokum.al" tvg-name="AL: KANAL 10" tvg-logo="http://logo.sltv.site/logo/ALBANIA/rrkomtv.png" group-title="AL ALBANIA",AL: KANAL 10
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3189
-#EXTINF:-1 tvg-id="" tvg-name="AL: KLAN MACEDONIA HD" tvg-logo="" group-title="AL ALBANIA",AL: KLAN MACEDONIA HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/290209
-#EXTINF:-1 tvg-id="" tvg-name="AL: KLAN PLUS HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/KLANPLUS.png" group-title="AL ALBANIA",AL: KLAN PLUS HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/137465
-#EXTINF:-1 tvg-id="klantv.al" tvg-name="AL: KLAN PLUS FHD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/KLANPLUS.png" group-title="AL ALBANIA",AL: KLAN PLUS FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/227595
-#EXTINF:-1 tvg-id="" tvg-name="AL: T7 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/7TV.png" group-title="AL ALBANIA",AL: T7 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301850
-#EXTINF:-1 tvg-id="" tvg-name="AL: T7 FHD" tvg-logo="" group-title="AL ALBANIA",AL: T7 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/361572
-#EXTINF:-1 tvg-id="NULL" tvg-name="AL: TV Mitrovica" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TV%20Mitrovica.png" group-title="AL ALBANIA",AL: TV Mitrovica
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/134666
-#EXTINF:-1 tvg-id="" tvg-name="AL: ALSAT M HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/alsat_m.png" group-title="AL ALBANIA",AL: ALSAT M HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/259709
-#EXTINF:-1 tvg-id="alsatm.al" tvg-name="AL: ALSAT M" tvg-logo="http://logo.sltv.site/logo/ALBANIA/alsat_m.png" group-title="AL ALBANIA",AL: ALSAT M
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3173
-#EXTINF:-1 tvg-id="alsatm.al" tvg-name="AL: ALSAT M FHD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/alsat_m.png" group-title="AL ALBANIA",AL: ALSAT M FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3172
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV KOHA" tvg-logo="http://logo.sltv.site/logo/ALBANIA/KOHATVMK.png" group-title="AL ALBANIA",AL: TV KOHA
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3124
-#EXTINF:-1 tvg-id="rtk.al" tvg-name="KS: RTK 1" tvg-logo="http://logo.sltv.site/logo/ALBANIA/rtk1.png" group-title="AL ALBANIA",KS: RTK 1
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3190
-#EXTINF:-1 tvg-id="" tvg-name="AL: ATV Kosova HD" tvg-logo="" group-title="AL ALBANIA",AL: ATV Kosova HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/331696
-#EXTINF:-1 tvg-id="" tvg-name="AL: TDC" tvg-logo="" group-title="AL ALBANIA",AL: TDC
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/383760
-#EXTINF:-1 tvg-id="" tvg-name="AL: TDC HD" tvg-logo="" group-title="AL ALBANIA",AL: TDC HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/386186
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTSH1.png" group-title="AL ALBANIA",AL: RTSH HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/203510
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 1 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTSH1.png" group-title="AL ALBANIA",AL: RTSH 1 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/203512
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 2 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTSH2.png" group-title="AL ALBANIA",AL: RTSH 2 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/203511
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 3 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTSH3.png" group-title="AL ALBANIA",AL: RTSH 3 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209392
-#EXTINF:-1 tvg-id="tringshqip.al" tvg-name="AL: RTSH Shqip" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTSHSHQIP.png" group-title="AL ALBANIA",AL: RTSH Shqip
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/203507
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH FILM" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTSHFILM.png" group-title="AL ALBANIA",AL: RTSH FILM
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211395
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Gjirokastra" tvg-logo="" group-title="AL ALBANIA",AL: RTSH Gjirokastra
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301844
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Korca" tvg-logo="" group-title="AL ALBANIA",AL: RTSH Korca
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301843
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Kuvend" tvg-logo="" group-title="AL ALBANIA",AL: RTSH Kuvend
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301842
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Plus" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTSHPLUS.png" group-title="AL ALBANIA",AL: RTSH Plus
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/203508
-
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH SAT HD" tvg-logo="" group-title="AL ALBANIA",AL: RTSH SAT HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/327295
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV USKANA" tvg-logo="" group-title="AL ALBANIA",AL: TV USKANA
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/284042
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV LIRIA HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/tvLiria.png" group-title="AL ALBANIA",AL: TV LIRIA HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/134669
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Besa Prizren" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TVBESA.png" group-title="AL ALBANIA",AL: TV Besa Prizren
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/134668
-#EXTINF:-1 tvg-id="" tvg-name="AL: ERA TV" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TVERA.png" group-title="AL ALBANIA",AL: ERA TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3080
-#EXTINF:-1 tvg-id="" tvg-name="AL: Alb UK" tvg-logo="http://logo.sltv.site/logo/ALBANIA/albUkk.png" group-title="AL ALBANIA",AL: Alb UK
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3078
-#EXTINF:-1 tvg-id="" tvg-name="AL: ARTI TV HD" tvg-logo="" group-title="AL ALBANIA",AL: ARTI TV HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/404518
-#EXTINF:-1 tvg-id="" tvg-name="AL: Click TV" tvg-logo="" group-title="AL ALBANIA",AL: Click TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/310536
-#EXTINF:-1 tvg-id="" tvg-name="AL: MKTV2" tvg-logo="" group-title="AL ALBANIA",AL: MKTV2
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301845
-#EXTINF:-1 tvg-id="" tvg-name="AL: ROZAFA TV" tvg-logo="" group-title="AL ALBANIA",AL: ROZAFA TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/296010
-#EXTINF:-1 tvg-id="" tvg-name="AL: Zico TV" tvg-logo="http://logo.sltv.site/logo/ALBANIA/zico.png" group-title="AL ALBANIA",AL: Zico TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209378
-#EXTINF:-1 tvg-id="" tvg-name="AL: ISTOGU CHANNEL" tvg-logo="http://logo.sltv.site/logo/ALBANIA/istoguChannel.png" group-title="AL ALBANIA",AL: ISTOGU CHANNEL
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/268765
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV FONTANA HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/rtvFontana.png" group-title="AL ALBANIA",AL: RTV FONTANA HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/268766
-#EXTINF:-1 tvg-id="" tvg-name="AL: BLUE SKY TV (Shkoder)" tvg-logo="" group-title="AL ALBANIA",AL: BLUE SKY TV (Shkoder)
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/296011
-#EXTINF:-1 tvg-id="" tvg-name="AL: Antena HD" tvg-logo="" group-title="AL ALBANIA",AL: Antena HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301758
-#EXTINF:-1 tvg-id="" tvg-name="AL: SCAN TV" tvg-logo="" group-title="AL LAJME-MUZIKE-KIDS",AL: SCAN TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301840
-#EXTINF:-1 tvg-id="" tvg-name="AL: Stupcat HD" tvg-logo="" group-title="AL ALBANIA",AL: Stupcat HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/386203
-#EXTINF:-1 tvg-id="" tvg-name="AL: PORTOKALLI" tvg-logo="" group-title="AL ALBANIA",AL: PORTOKALLI
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301818
-#EXTINF:-1 tvg-id="" tvg-name="AL: POLLOGU HD" tvg-logo="" group-title="AL ALBANIA",AL: POLLOGU HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301813
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dielli TV" tvg-logo="" group-title="AL ALBANIA",AL: Dielli TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301809
-#EXTINF:-1 tvg-id="" tvg-name="AL: Muse TV" tvg-logo="" group-title="AL ALBANIA",AL: Muse TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301808
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER 1 HD" tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER 1 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/383433
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER 1 FHD" tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER 1 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/383430
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER 2 HD" tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER 2 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/383434
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER 2 FHD" tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER 2 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/383429
-#EXTINF:-1 tvg-id="" tvg-name="---- ALB LAJMET ---" tvg-logo="http://logo.sltv.site/logo/flag/al.png" group-title="AL ALBANIA",---- ALB LAJMET ---
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301607
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV21 NEWSBIZ HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTV21NEWSBIZ.png" group-title="AL LAJME-MUZIKE-KIDS",AL: RTV21 NEWSBIZ HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211396
-#EXTINF:-1 tvg-id="" tvg-name="AL: FIRST TV HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/FIRSTCHANEL.png" group-title="AL LAJME-MUZIKE-KIDS",AL: FIRST TV HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209404
-#EXTINF:-1 tvg-id="" tvg-name="AL: IN TV" tvg-logo="" group-title="AL LAJME-MUZIKE-KIDS",AL: IN TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3187
-#EXTINF:-1 tvg-id="" tvg-name="AL: SHENJA TV" tvg-logo="" group-title="AL LAJME-MUZIKE-KIDS",AL: SHENJA TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/210663
-#EXTINF:-1 tvg-id="" tvg-name="AL: First Channel" tvg-logo="http://logo.sltv.site/logo/ALBANIA/FIRSTCHANEL.png" group-title="AL LAJME-MUZIKE-KIDS",AL: First Channel
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/134667
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Muzike" tvg-logo="http://logo.sltv.site/logo/ALBANIA/rtsh-muzike-al.png" group-title="AL LAJME-MUZIKE-KIDS",AL: RTSH Muzike
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/203509
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 24 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-9Eu34tOEOf2RIQz2erO2Y13S_2VATxXgKA&amp;usqp=CAU" group-title="AL LAJME-MUZIKE-KIDS",AL: RTSH 24 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/271762
-#EXTINF:-1 tvg-id="" tvg-name="AL: MRT 2" tvg-logo="http://logo.sltv.site/logo/ALBANIA/MRTV2SAT.png" group-title="AL LAJME-MUZIKE-KIDS",AL: MRT 2
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209382
-#EXTINF:-1 tvg-id="" tvg-name="AL: Top News" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TOPNEWS.png" group-title="AL ALBANIA",AL: Top News
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3103
-#EXTINF:-1 tvg-id="" tvg-name="AL: ABC News 24/7" tvg-logo="http://logo.sltv.site/logo/ALBANIA/ABCNEWS.png" group-title="AL ALBANIA",AL: ABC News 24/7
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3100
-#EXTINF:-1 tvg-id="" tvg-name="AL: DH TV HD" tvg-logo="" group-title="AL LAJME-MUZIKE-KIDS",AL: DH TV HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/380356
-#EXTINF:-1 tvg-id="" tvg-name="AL: AL TV HD" tvg-logo="" group-title="AL LAJME-MUZIKE-KIDS",AL: AL TV HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/380355
-#EXTINF:-1 tvg-id="" tvg-name="AL: A2 NEWS HD" tvg-logo="" group-title="AL LAJME-MUZIKE-KIDS",AL: A2 NEWS HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/298003
-#EXTINF:-1 tvg-id="" tvg-name="AL: ORA NEWS" tvg-logo="http://logo.sltv.site/logo/ALBANIA/ORANEWS.png" group-title="AL LAJME-MUZIKE-KIDS",AL: ORA NEWS
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211398
-#EXTINF:-1 tvg-id="" tvg-name="AL: Arta News" tvg-logo="http://logo.sltv.site/logo/ALBANIA/ARTANEWS.png" group-title="AL LAJME-MUZIKE-KIDS",AL: Arta News
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211445
-#EXTINF:-1 tvg-id="" tvg-name="AL: FAX NEWS HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/FAXNEWS.png" group-title="AL LAJME-MUZIKE-KIDS",AL: FAX NEWS HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211444
-#EXTINF:-1 tvg-id="" tvg-name="AL: News 24" tvg-logo="http://logo.sltv.site/logo/ALBANIA/NEWS24.png" group-title="AL ALBANIA",AL: News 24
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3101
-#EXTINF:-1 tvg-id="" tvg-name="AL: Report TV" tvg-logo="http://logo.sltv.site/logo/ALBANIA/report-tv-al.png" group-title="AL LAJME-MUZIKE-KIDS",AL: Report TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209405
-#EXTINF:-1 tvg-id="" tvg-name="AL: KANALI 7" tvg-logo="http://logo.sltv.site/logo/ALBANIA/kanali7.png" group-title="AL LAJME-MUZIKE-KIDS",AL: KANALI 7
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209406
-#EXTINF:-1 tvg-id="" tvg-name="AL: SYRI VISION" tvg-logo="http://logo.sltv.site/logo/ALBANIA/SYRIVISION.png" group-title="AL ALBANIA",AL: SYRI VISION
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211385
-#EXTINF:-1 tvg-id="" tvg-name="AL: Syri News HD" tvg-logo="" group-title="AL LAJME-MUZIKE-KIDS",AL: Syri News HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301839
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV21 NEWS BIZ HD" tvg-logo="" group-title="AL LAJME-MUZIKE-KIDS",AL: RTV21 NEWS BIZ HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301806
-#EXTINF:-1 tvg-id="" tvg-name="---- ALB MUZIKE &amp; HUMOR ---" tvg-logo="http://logo.sltv.site/logo/flag/al.png" group-title="AL ALBANIA",---- ALB MUZIKE &amp; HUMOR ---
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301608
-#EXTINF:-1 tvg-id="" tvg-name="AL: Supersonic TV 1" tvg-logo="http://logo.sltv.site/logo/ALBANIA/supersonic_tv_al.png" group-title="AL ALBANIA",AL: Supersonic TV 1
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3115
-#EXTINF:-1 tvg-id="" tvg-name="AL: TOP ESTRADA TV HD" tvg-logo="" group-title="AL ALBANIA",AL: TOP ESTRADA TV HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/292727
-#EXTINF:-1 tvg-id="" tvg-name="AL: Folk Plus" tvg-logo="http://logo.sltv.site/logo/ALBANIA/folk_plus.png" group-title="AL LAJME-MUZIKE-KIDS",AL: Folk Plus
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3111
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Kopliku HD" tvg-logo="" group-title="AL ALBANIA",AL: TV Kopliku HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301145
-#EXTINF:-1 tvg-id="" tvg-name="AL: MTV KOSOVA" tvg-logo="" group-title="AL LAJME-MUZIKE-KIDS",AL: MTV KOSOVA
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301144
-#EXTINF:-1 tvg-id="" tvg-name="AL: AMOL TV" tvg-logo="" group-title="AL ALBANIA",AL: AMOL TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301142
-#EXTINF:-1 tvg-id="" tvg-name="AL: ELRODI TV" tvg-logo="" group-title="AL ALBANIA",AL: ELRODI TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/295389
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV ILIRIDA" tvg-logo="" group-title="AL ALBANIA",AL: RTV ILIRIDA
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/361829
-#EXTINF:-1 tvg-id="" tvg-name="AL: My Music" tvg-logo="http://logo.sltv.site/logo/ALBANIA/digit_alb_my_music_tv.png" group-title="AL LAJME-MUZIKE-KIDS",AL: My Music
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211446
-#EXTINF:-1 tvg-id="" tvg-name="AL: BBF TV" tvg-logo="" group-title="AL ALBANIA",AL: BBF TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/298543
-#EXTINF:-1 tvg-id="" tvg-name="AL: Syri Blu Music" tvg-logo="http://logo.sltv.site/logo/ALBANIA/syriBluMusic.png" group-title="AL LAJME-MUZIKE-KIDS",AL: Syri Blu Music
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211448
-#EXTINF:-1 tvg-id="" tvg-name="AL: STV Folk" tvg-logo="" group-title="AL LAJME-MUZIKE-KIDS",AL: STV Folk
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301728
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dasma TV" tvg-logo="" group-title="AL ALBANIA",AL: Dasma TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/321059
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Diaspora" tvg-logo="" group-title="AL ALBANIA",AL: TV Diaspora
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/321048
-#EXTINF:-1 tvg-id="" tvg-name="AL: TURBO Channel" tvg-logo="" group-title="AL ALBANIA",AL: TURBO Channel
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/321046
-#EXTINF:-1 tvg-id="" tvg-name="AL: ZÃ«ri TV" tvg-logo="" group-title="AL ALBANIA",AL: ZÃ«ri TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301771
-#EXTINF:-1 tvg-id="" tvg-name="AL: ON TV" tvg-logo="" group-title="AL ALBANIA",AL: ON TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301767
-#EXTINF:-1 tvg-id="" tvg-name="AL: Roma Tv" tvg-logo="" group-title="AL ALBANIA",AL: Roma Tv
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301760
-#EXTINF:-1 tvg-id="" tvg-name="AL: Albania Tv Chicago" tvg-logo="" group-title="AL ALBANIA",AL: Albania Tv Chicago
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301757
-#EXTINF:-1 tvg-id="" tvg-name="AL: Fashion TV HD" tvg-logo="http://logo.sltv.site/logo/2021mixlogo/fashion.png" group-title="AL LAJME-MUZIKE-KIDS",AL: Fashion TV HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301756
-#EXTINF:-1 tvg-id="" tvg-name="AL: Adria Net" tvg-logo="" group-title="AL ALBANIA",AL: Adria Net
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301755
-#EXTINF:-1 tvg-id="" tvg-name="AL: Vali TV" tvg-logo="" group-title="AL ALBANIA",AL: Vali TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301753
-#EXTINF:-1 tvg-id="" tvg-name="AL: ASHKALI" tvg-logo="" group-title="AL ALBANIA",AL: ASHKALI
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/363199
-#EXTINF:-1 tvg-id="" tvg-name="--- ALB FILMA ---" tvg-logo="http://logo.sltv.site/logo/flag/al.png" group-title="AL FILMA",--- ALB FILMA ---
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301609
-#EXTINF:-1 tvg-id="" tvg-name="AL: KANAL D DRAMA HD" tvg-logo="" group-title="AL FILMA",AL: KANAL D DRAMA HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301847
-#EXTINF:-1 tvg-id="" tvg-name="AL: KANAL D DRAMA FHD" tvg-logo="" group-title="AL FILMA",AL: KANAL D DRAMA FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/380350
-#EXTINF:-1 tvg-id="jolly.al" tvg-name="AL: Jolly HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/tring_jolly_hd.png" group-title="AL FILMA",AL: Jolly HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3139
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring International" tvg-logo="" group-title="AL FILMA",AL: Tring International
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/310535
-#EXTINF:-1 tvg-id="" tvg-name="AL: FAMILY HD" tvg-logo="" group-title="AL FILMA",AL: FAMILY HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/298634
-#EXTINF:-1 tvg-id="filmnje.al" tvg-name="AL: Film Gold HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/FILMNJE.png" group-title="AL FILMA",AL: Film Gold HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3148
-#EXTINF:-1 tvg-id="filmdy.al" tvg-name="AL: Film Max HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/FILMDY.png" group-title="AL FILMA",AL: Film Max HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3144
-#EXTINF:-1 tvg-id="filmaksion.al" tvg-name="AL: Film Aksion" tvg-logo="http://logo.sltv.site/logo/ALBANIA/FILMAKSION.png" group-title="AL FILMA",AL: Film Aksion
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3141
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Autor" tvg-logo="http://logo.sltv.site/logo/ALBANIA/FILMAUTOR.png" group-title="AL FILMA",AL: Film Autor
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3142
-#EXTINF:-1 tvg-id="filmdrame.al" tvg-name="AL: Film Drame" tvg-logo="http://logo.sltv.site/logo/ALBANIA/FILMDRAME.png" group-title="AL FILMA",AL: Film Drame
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209413
-#EXTINF:-1 tvg-id="filmthriller.al" tvg-name="AL: Film Thriller" tvg-logo="http://logo.sltv.site/logo/ALBANIA/FILMTHRILLER.png" group-title="AL FILMA",AL: Film Thriller
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3149
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="" group-title="AL FILMA",AL: Film Hits HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/365899
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits 1" tvg-logo="" group-title="AL FILMA",AL: Film Hits 1
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/365898
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Komedi" tvg-logo="" group-title="AL FILMA",AL: Film Komedi
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/365897
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Stinet" tvg-logo="http://logo.sltv.site/logo/ALBANIA/FILMSTINET.png" group-title="AL FILMA",AL: Film Stinet
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/162358
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Gold 1" tvg-logo="http://logo.sltv.site/logo/ALBANIA/filmGold1.png" group-title="AL FILMA",AL: Film Gold 1
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3158
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Action" tvg-logo="http://logo.sltv.site/logo/ALBANIA/tring_action.png" group-title="AL FILMA",AL: Tring Action
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209415
-#EXTINF:-1 tvg-id="tringfantazi.al" tvg-name="AL: Tring Fantasy" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TRINGFANTASY.png" group-title="AL FILMA",AL: Tring Fantasy
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3165
-#EXTINF:-1 tvg-id="tringlife.al" tvg-name="AL: Tring Life HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/tring_life.png" group-title="AL FILMA",AL: Tring Life HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3166
-#EXTINF:-1 tvg-id="tringcomedy.al" tvg-name="AL: Tring Comedy" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TRINGCOMEDY.png" group-title="AL FILMA",AL: Tring Comedy
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3164
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Classic HD" tvg-logo="" group-title="AL FILMA",AL: Tring Classic HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/363553
-#EXTINF:-1 tvg-id="tringshqip.al" tvg-name="AL: Tring Shqip" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TRINGSHQIP.png" group-title="AL FILMA",AL: Tring Shqip
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3168
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring 3" tvg-logo="http://logo.sltv.site/logo/ALBANIA/tring_3plus.png" group-title="AL FILMA",AL: Tring 3
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209417
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring 3 Plus" tvg-logo="http://logo.sltv.site/logo/ALBANIA/tring_3plus.png" group-title="AL FILMA",AL: Tring 3 Plus
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3163
-#EXTINF:-1 tvg-id="jolly.al" tvg-name="AL: Tring Jolly" tvg-logo="http://logo.sltv.site/logo/ALBANIA/tring_jolly_hd.png" group-title="AL FILMA",AL: Tring Jolly
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209416
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Family HD" tvg-logo="" group-title="AL FILMA",AL: Tring Family HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301626
-#EXTINF:-1 tvg-id="living.al" tvg-name="AL: Living FHD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/tring_living.png" group-title="AL FILMA",AL: Living FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209432
-#EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/T.png" group-title="AL FILMA",AL: T HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3161
-#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Komedi" tvg-logo="http://logo.sltv.site/logo/ALBANIA/skykomedi.png" group-title="AL FILMA",AL: Sky Komedi
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209418
-#EXTINF:-1 tvg-id="tringmax.al" tvg-name="AL: Sky Max" tvg-logo="http://logo.sltv.site/logo/ALBANIA/skymax.png" group-title="AL FILMA",AL: Sky Max
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3157
-#EXTINF:-1 tvg-id="" tvg-name="AL: Novela" tvg-logo="" group-title="AL FILMA",AL: Novela
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301666
-#EXTINF:-1 tvg-id="" tvg-name="AL: SKY HISTORY" tvg-logo="" group-title="AL FILMA",AL: SKY HISTORY
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301665
-#EXTINF:-1 tvg-id="" tvg-name="AL: SKY DRAMA" tvg-logo="" group-title="AL FILMA",AL: SKY DRAMA
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301661
-#EXTINF:-1 tvg-id="" tvg-name="AL: SKY AKSION" tvg-logo="" group-title="AL FILMA",AL: SKY AKSION
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301647
-#EXTINF:-1 tvg-id="" tvg-name="AL: STAR PLUS HD" tvg-logo="" group-title="AL FILMA",AL: STAR PLUS HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/296008
-#EXTINF:-1 tvg-id="" tvg-name="AL: X GOLD 1 HD (SLTV)" tvg-logo="http://logo.sltv.site/logo/albaniaEXCLU/extream%20gold%201.png" group-title="AL FILMA",AL: X GOLD 1 HD (SLTV)
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/367376
-#EXTINF:-1 tvg-id="" tvg-name="AL: X GOLD 2 HD (SLTV)" tvg-logo="http://logo.sltv.site/logo/albaniaEXCLU/extream%20gold%202.png" group-title="AL FILMA",AL: X GOLD 2 HD (SLTV)
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/367375
-#EXTINF:-1 tvg-id="" tvg-name="AL: X GOLD 3 HD (SLTV)" tvg-logo="http://logo.sltv.site/logo/albaniaEXCLU/extream%20gold%203.png" group-title="AL FILMA",AL: X GOLD 3 HD (SLTV)
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/367374
-#EXTINF:-1 tvg-id="" tvg-name="AL: X GOLD 4 HD (SLTV)" tvg-logo="" group-title="AL FILMA",AL: X GOLD 4 HD (SLTV)
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/372625
-#EXTINF:-1 tvg-id="" tvg-name="AL: X GOLD 5 HD" tvg-logo="" group-title="AL FILMA",AL: X GOLD 5 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/379723
-#EXTINF:-1 tvg-id="" tvg-name="AL: X PREMIERE 1 HD (SLTV)" tvg-logo="http://logo.sltv.site/logo/albaniaEXCLU/extream%20premiere%201.png" group-title="AL FILMA",AL: X PREMIERE 1 HD (SLTV)
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/367373
-#EXTINF:-1 tvg-id="" tvg-name="AL: X PREMIERE 2 HD (SLTV)" tvg-logo="http://logo.sltv.site/logo/albaniaEXCLU/extream%20premiere%202.png" group-title="AL FILMA",AL: X PREMIERE 2 HD (SLTV)
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/367372
-#EXTINF:-1 tvg-id="" tvg-name="AL: X PREMIERE 3 HD (SLTV)" tvg-logo="http://logo.sltv.site/logo/albaniaEXCLU/extream%20premiere%203.png" group-title="AL FILMA",AL: X PREMIERE 3 HD (SLTV)
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/367371
-#EXTINF:-1 tvg-id="" tvg-name="AL: X PREMIERE 4 HD" tvg-logo="" group-title="AL FILMA",AL: X PREMIERE 4 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/372624
-#EXTINF:-1 tvg-id="" tvg-name="AL: X PREMIERE 5 HD" tvg-logo="" group-title="AL FILMA",AL: X PREMIERE 5 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/379725
-#EXTINF:-1 tvg-id="" tvg-name="AL: X PREMIUM 1 HD (SLTV)" tvg-logo="http://logo.sltv.site/logo/albaniaEXCLU/extream%20premium%201.png" group-title="AL FILMA",AL: X PREMIUM 1 HD (SLTV)
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/367370
-#EXTINF:-1 tvg-id="" tvg-name="AL: X PREMIUM 2 HD (SLTV)" tvg-logo="http://logo.sltv.site/logo/albaniaEXCLU/extream%20premium%202.png" group-title="AL FILMA",AL: X PREMIUM 2 HD (SLTV)
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/367369
-#EXTINF:-1 tvg-id="" tvg-name="AL: X PREMIUM 3 HD" tvg-logo="" group-title="AL FILMA",AL: X PREMIUM 3 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/372623
-#EXTINF:-1 tvg-id="" tvg-name="AL: X PREMIUM 4 HD" tvg-logo="" group-title="AL FILMA",AL: X PREMIUM 4 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/372622
-#EXTINF:-1 tvg-id="" tvg-name="AL: X PREMIUM 5 HD" tvg-logo="" group-title="AL FILMA",AL: X PREMIUM 5 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/379724
-#EXTINF:-1 tvg-id="" tvg-name="AL: X DIAMOND 1 HD" tvg-logo="" group-title="AL FILMA",AL: X DIAMOND 1 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/372621
-#EXTINF:-1 tvg-id="" tvg-name="AL: X DIAMOND 2 HD" tvg-logo="" group-title="AL FILMA",AL: X DIAMOND 2 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/372620
-#EXTINF:-1 tvg-id="" tvg-name="AL: X DIAMOND 3 HD" tvg-logo="" group-title="AL FILMA",AL: X DIAMOND 3 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/372619
-#EXTINF:-1 tvg-id="" tvg-name="AL: X DIAMOND 4 HD" tvg-logo="" group-title="AL FILMA",AL: X DIAMOND 4 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/372618
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM PLATINIUM 1 HD" tvg-logo="" group-title="AL FILMA",AL: FILM PLATINIUM 1 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/372617
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM PLATINIUM 2 HD" tvg-logo="" group-title="AL FILMA",AL: FILM PLATINIUM 2 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/372616
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM PLATINIUM 3 HD" tvg-logo="" group-title="AL FILMA",AL: FILM PLATINIUM 3 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/372615
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM PLATINIUM 4 HD" tvg-logo="" group-title="AL FILMA",AL: FILM PLATINIUM 4 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/372614
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM SILVER 1 HD" tvg-logo="" group-title="AL FILMA",AL: FILM SILVER 1 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/379730
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM SILVER 2 HD" tvg-logo="" group-title="AL FILMA",AL: FILM SILVER 2 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/379729
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM SILVER 3 HD" tvg-logo="" group-title="AL FILMA",AL: FILM SILVER 3 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/379728
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM SILVER 4 HD" tvg-logo="" group-title="AL FILMA",AL: FILM SILVER 4 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/379727
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM SILVER 5 HD" tvg-logo="" group-title="AL FILMA",AL: FILM SILVER 5 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/379726
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Kino 1 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/art-kino-1-rs.png" group-title="AL FILMA",AL: ART Kino 1 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211405
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Kino 2 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/art-kino-3-rs.png" group-title="AL FILMA",AL: ART Kino 2 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211406
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Kino 3 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/art-kino-2-rs.png" group-title="AL FILMA",AL: ART Kino 3 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211407
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Plisi HD" tvg-logo="" group-title="AL FILMA",AL: TV Plisi HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/365896
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Plisi Humor HD" tvg-logo="" group-title="AL FILMA",AL: TV Plisi Humor HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/365895
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Plisi Qifteli HD" tvg-logo="" group-title="AL FILMA",AL: TV Plisi Qifteli HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/365894
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Plisi Thriller HD" tvg-logo="" group-title="AL FILMA",AL: TV Plisi Thriller HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/365893
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Plisi Horror HD" tvg-logo="" group-title="AL FILMA",AL: TV Plisi Horror HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/365892
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Plisi Fantasy HD" tvg-logo="" group-title="AL FILMA",AL: TV Plisi Fantasy HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/365891
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Plisi Comedy HD" tvg-logo="" group-title="AL FILMA",AL: TV Plisi Comedy HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/365890
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Plisi Action HD" tvg-logo="" group-title="AL FILMA",AL: TV Plisi Action HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/365889
-#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 1 HD" tvg-logo="" group-title="AL FILMA",AL: Digi Gold 1 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/365888
-#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 2 HD" tvg-logo="" group-title="AL FILMA",AL: Digi Gold 2 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/365887
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILMBOX PREMIUM" tvg-logo="" group-title="AL FILMA",AL: FILMBOX PREMIUM
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/365886
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILMBOX ARTHOUSE" tvg-logo="" group-title="AL FILMA",AL: FILMBOX ARTHOUSE
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/365885
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILMBOX EXTRA" tvg-logo="" group-title="AL FILMA",AL: FILMBOX EXTRA
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/365884
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILMBOX PLUS" tvg-logo="" group-title="AL FILMA",AL: FILMBOX PLUS
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/365883
-#EXTINF:-1 tvg-id="" tvg-name="--- ALB FEMIJE ---" tvg-logo="http://logo.sltv.site/logo/flag/al.png" group-title="AL ALBANIA",--- ALB FEMIJE ---
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301610
-#EXTINF:-1 tvg-id="bangbang.al" tvg-name="AL: Bang Bang" tvg-logo="http://logo.sltv.site/logo/ALBANIA/BANGBANG.png" group-title="AL ALBANIA",AL: Bang Bang
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3106
-#EXTINF:-1 tvg-id="cufotv.al" tvg-name="AL: Cufo" tvg-logo="http://logo.sltv.site/logo/ALBANIA/CUFO.png" group-title="AL ALBANIA",AL: Cufo
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3079
-#EXTINF:-1 tvg-id="" tvg-name="AL: Baby TV" tvg-logo="http://logo.sltv.site/logo/ALBANIA/BABYTV.png" group-title="AL LAJME-MUZIKE-KIDS",AL: Baby TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209423
-#EXTINF:-1 tvg-id="" tvg-name="AL: Zjarr TV" tvg-logo="" group-title="AL ALBANIA",AL: Zjarr TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301377
-#EXTINF:-1 tvg-id="rtv21junior.al" tvg-name="AL: RTV21 JUNIOR HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTV21JUNIOR.png" group-title="AL ALBANIA",AL: RTV21 JUNIOR HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3097
-#EXTINF:-1 tvg-id="juniortv.al" tvg-name="AL: Junior" tvg-logo="http://logo.sltv.site/logo/ALBANIA/JUNIOR.png" group-title="AL LAJME-MUZIKE-KIDS",AL: Junior
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209420
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING KIDS" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TRINGKIDS.png" group-title="AL LAJME-MUZIKE-KIDS",AL: TRING KIDS
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211399
-#EXTINF:-1 tvg-id="" tvg-name="AL: SOFIA" tvg-logo="http://logo.sltv.site/logo/ALBANIA/SOFIA.png" group-title="AL ALBANIA",AL: SOFIA
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211380
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH FEMIJE" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTSHFEMIJE.png" group-title="AL ALBANIA",AL: RTSH FEMIJE
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211400
-#EXTINF:-1 tvg-id="tringtring.al" tvg-name="AL: Tring Tring" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TRINGTRING.png" group-title="AL ALBANIA",AL: Tring Tring
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3107
-#EXTINF:-1 tvg-id="" tvg-name="AL: KIDS HD" tvg-logo="" group-title="AL LAJME-MUZIKE-KIDS",AL: KIDS HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/298635
-#EXTINF:-1 tvg-id="tiptv.al" tvg-name="AL: TIP TV" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TIPTV.png" group-title="AL ALBANIA",AL: TIP TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3108
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Kids" tvg-logo="" group-title="AL LAJME-MUZIKE-KIDS",AL: Film Kids
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301625
-#EXTINF:-1 tvg-id="" tvg-name="AL: Pikaboo" tvg-logo="" group-title="AL ALBANIA",AL: Pikaboo
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301624
-#EXTINF:-1 tvg-id="" tvg-name="AL: Boomerang" tvg-logo="" group-title="AL LAJME-MUZIKE-KIDS",AL: Boomerang
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301627
-#EXTINF:-1 tvg-id="" tvg-name="AL: Duck TV" tvg-logo="http://logo.sltv.site/logo/2021mixlogo/duck.png" group-title="AL LAJME-MUZIKE-KIDS",AL: Duck TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301619
-#EXTINF:-1 tvg-id="" tvg-name="AL: KIDS" tvg-logo="" group-title="AL LAJME-MUZIKE-KIDS",AL: KIDS
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301618
-#EXTINF:-1 tvg-id="" tvg-name="--- ALB Dokumentare ---" tvg-logo="http://logo.sltv.site/logo/flag/al.png" group-title="AL ALBANIA",--- ALB Dokumentare ---
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301611
-#EXTINF:-1 tvg-id="" tvg-name="AL: Gurme Shqip FHD" tvg-logo="" group-title="AL ALBANIA",AL: Gurme Shqip FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301159
-#EXTINF:-1 tvg-id="expnatyra.al" tvg-name="AL: Explorer Natyre" tvg-logo="http://logo.sltv.site/logo/ALBANIA/explorerNatyra.png" group-title="AL ALBANIA",AL: Explorer Natyre
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3119
-#EXTINF:-1 tvg-id="expshkence.al" tvg-name="AL: Explorer Shkence" tvg-logo="http://logo.sltv.site/logo/ALBANIA/ExplorerShkence.png" group-title="AL ALBANIA",AL: Explorer Shkence
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3120
-#EXTINF:-1 tvg-id="exphistori.al" tvg-name="AL: Explorer History" tvg-logo="http://logo.sltv.site/logo/ALBANIA/explorerHistory.png" group-title="AL ALBANIA",AL: Explorer History
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3118
-#EXTINF:-1 tvg-id="tringworld.al" tvg-name="AL: Tring World" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TRINGWORLD.png" group-title="AL ALBANIA",AL: Tring World
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3123
-
-#EXTINF:-1 tvg-id="tringplanet.al" tvg-name="AL: Tring Planet" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TRINGPLANET.png" group-title="AL ALBANIA",AL: Tring Planet
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3122
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring History" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TRINGHISTORY.png" group-title="AL ALBANIA",AL: Tring History
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3121
-#EXTINF:-1 tvg-id="exphistori.al" tvg-name="AL: X HISTORI HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/x.png" group-title="AL ALBANIA",AL: X HISTORI HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211408
-#EXTINF:-1 tvg-id="expnatyra.al" tvg-name="AL: X NATYRA HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/x.png" group-title="AL ALBANIA",AL: X NATYRA HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211409
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Doku 1 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/artDoku1.png" group-title="AL ALBANIA",AL: ART Doku 1 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/225144
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Doku 2 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/artDoku1.png" group-title="AL ALBANIA",AL: ART Doku 2 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/225145
-#EXTINF:-1 tvg-id="expshkence.al" tvg-name="AL: SKY SHKENCE" tvg-logo="http://logo.sltv.site/logo/ALBANIA/sky%20shkence.png" group-title="AL ALBANIA",AL: SKY SHKENCE
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211412
-#EXTINF:-1 tvg-id="" tvg-name="AL: National Geographic HD" tvg-logo="" group-title="AL ALBANIA",AL: National Geographic HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/329381
-#EXTINF:-1 tvg-id="" tvg-name="AL: Animal Planet HD" tvg-logo="" group-title="AL ALBANIA",AL: Animal Planet HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301781
-#EXTINF:-1 tvg-id="" tvg-name="AL: Discovery Science FHD" tvg-logo="" group-title="AL ALBANIA",AL: Discovery Science FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301780
-#EXTINF:-1 tvg-id="" tvg-name="AL: Discovery Channel HD" tvg-logo="" group-title="AL ALBANIA",AL: Discovery Channel HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/331250
-#EXTINF:-1 tvg-id="" tvg-name="AL: Discovery Turbo Xtra" tvg-logo="" group-title="AL ALBANIA",AL: Discovery Turbo Xtra
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/334275
-#EXTINF:-1 tvg-id="" tvg-name="AL: Travel Channel" tvg-logo="" group-title="AL ALBANIA",AL: Travel Channel
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301777
-#EXTINF:-1 tvg-id="tringplanet.al" tvg-name="AL: SKY PLANET" tvg-logo="" group-title="AL ALBANIA",AL: SKY PLANET
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211411
-#EXTINF:-1 tvg-id="" tvg-name="AL: 24 KITCHEN" tvg-logo="http://logo.sltv.site/logo/ALBANIA/KITCHEN24.png" group-title="AL ALBANIA",AL: 24 KITCHEN
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211415
-#EXTINF:-1 tvg-id="" tvg-name="--- ALB Islam ---" tvg-logo="http://logo.sltv.site/logo/flag/al.png" group-title="AL ALBANIA",--- ALB Islam ---
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301612
-#EXTINF:-1 tvg-id="" tvg-name="AL: Ashkali Islam" tvg-logo="" group-title="AL ALBANIA",AL: Ashkali Islam
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301140
-#EXTINF:-1 tvg-id="" tvg-name="AL: Islam Channel 1 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/islam.png" group-title="AL ALBANIA",AL: Islam Channel 1 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209381
-#EXTINF:-1 tvg-id="" tvg-name="AL: Islam Channel 2 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/islam.png" group-title="AL ALBANIA",AL: Islam Channel 2 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209437
-#EXTINF:-1 tvg-id="" tvg-name="AL: Islam Channel 3 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/islam.png" group-title="AL ALBANIA",AL: Islam Channel 3 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209438
-#EXTINF:-1 tvg-id="" tvg-name="AL: Islam Channel Quran HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/islam.png" group-title="AL ALBANIA",AL: Islam Channel Quran HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209439
-#EXTINF:-1 tvg-id="" tvg-name="AL: PEACE TV" tvg-logo="" group-title="AL ALBANIA",AL: PEACE TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301737
-#EXTINF:-1 tvg-id="" tvg-name="AL: Lugina Islam" tvg-logo="" group-title="AL ALBANIA",AL: Lugina Islam
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301734
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV ISLAM HD" tvg-logo="" group-title="AL ALBANIA",AL: RTV ISLAM HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301733
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV ISLAM" tvg-logo="" group-title="AL ALBANIA",AL: RTV ISLAM
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301732
-#EXTINF:-1 tvg-id="" tvg-name="AL: Peace TV Shqip" tvg-logo="" group-title="AL ALBANIA",AL: Peace TV Shqip
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301731
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Meka Live" tvg-logo="" group-title="AL ALBANIA",AL: TV Meka Live
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301730
-#EXTINF:-1 tvg-id="" tvg-name="--- ALB Sport ---" tvg-logo="http://logo.sltv.site/logo/flag/al.png" group-title="AL SPORTS",--- ALB Sport ---
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301613
-#EXTINF:-1 tvg-id="supersportnews.al" tvg-name="AL: Super Sport News HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/superSportNews.png" group-title="AL SPORTS",AL: Super Sport News HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3127
-#EXTINF:-1 tvg-id="supersportkosova1.al" tvg-name="AL: SUPER SPORT 1 HD" tvg-logo="" group-title="AL SPORTS",AL: SUPER SPORT 1 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/276568
-#EXTINF:-1 tvg-id="supersportkosova1.al" tvg-name="AL: SUPER SPORT 1 FHD" tvg-logo="" group-title="AL SPORTS",AL: SUPER SPORT 1 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/276567
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1 FHD (SPECIAL)" tvg-logo="" group-title="AL SPORTS",AL: SUPER SPORT 1 FHD (SPECIAL)
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/277923
-#EXTINF:-1 tvg-id="supersport2.al" tvg-name="AL: SUPER SPORT 2 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/digit_alb_supersport2_hd.png" group-title="AL SPORTS",AL: SUPER SPORT 2 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3128
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 2 FHD" tvg-logo="" group-title="AL SPORTS",AL: SUPER SPORT 2 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/277925
-#EXTINF:-1 tvg-id="supersport2.al" tvg-name="AL: SUPER SPORT 2 FHD (SPECIAL)" tvg-logo="http://logo.sltv.site/logo/ALBANIA/digit_alb_supersport2_hd.png" group-title="AL SPORTS",AL: SUPER SPORT 2 FHD (SPECIAL)
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/227593
-#EXTINF:-1 tvg-id="supersport3.al" tvg-name="AL: SUPER SPORT 3 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/digit_alb_supersport3_hd.png" group-title="AL SPORTS",AL: SUPER SPORT 3 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3129
-#EXTINF:-1 tvg-id="supersport3.al" tvg-name="AL: SUPER SPORT 3 FHD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/digit_alb_supersport3_hd.png" group-title="AL SPORTS",AL: SUPER SPORT 3 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/227594
-#EXTINF:-1 tvg-id="supersport4.al" tvg-name="AL: SUPER SPORT 4 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/digit_alb_supersport4_hd.png" group-title="AL SPORTS",AL: SUPER SPORT 4 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209433
-#EXTINF:-1 tvg-id="supersport4.al" tvg-name="AL: SUPER SPORT 4 FHD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/digit_alb_supersport4_hd.png" group-title="AL SPORTS",AL: SUPER SPORT 4 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3130
-#EXTINF:-1 tvg-id="supersport5.al" tvg-name="AL: SUPER SPORT 5 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/digit_alb_supersport5_hd.png" group-title="AL SPORTS",AL: SUPER SPORT 5 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209434
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 5 FHD" tvg-logo="" group-title="AL SPORTS",AL: SUPER SPORT 5 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/277926
-#EXTINF:-1 tvg-id="supersport6.al" tvg-name="AL: SUPER SPORT 6 FHD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/SUPERSPORT6.png" group-title="AL SPORTS",AL: SUPER SPORT 6 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211449
-#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 7 FHD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/digit_alb_supersport7_hd.png" group-title="AL SPORTS",AL: SUPER SPORT 7 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211450
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Sport HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTSHSPORT.png" group-title="AL SPORTS",AL: RTSH Sport HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/203506
-#EXTINF:-1 tvg-id="supersportkosova1.al" tvg-name="KS: Super Sport Kosova 1" tvg-logo="http://logo.sltv.site/logo/ALBANIA/digit_alb_supersport1_hd.png" group-title="AL SPORTS",KS: Super Sport Kosova 1
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3191
-#EXTINF:-1 tvg-id="supersportkosova2.al" tvg-name="KS: Super Sport Kosova 2" tvg-logo="http://logo.sltv.site/logo/ALBANIA/digit_alb_supersport2_hd.png" group-title="AL SPORTS",KS: Super Sport Kosova 2
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3192
-#EXTINF:-1 tvg-id="tringsportnews.al" tvg-name="AL: Tring Sport News HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TRINGSPORTNEWS.png" group-title="AL SPORTS",AL: Tring Sport News HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3132
-#EXTINF:-1 tvg-id="tringsport1.al" tvg-name="AL: Tring Sport 1 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TRINGSPORT.png" group-title="AL SPORTS",AL: Tring Sport 1 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3133
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 1 FHD" tvg-logo="" group-title="AL SPORTS",AL: TRING SPORT 1 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/277931
-#EXTINF:-1 tvg-id="tringsport2.al" tvg-name="AL: Tring Sport 2 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TRINGSPORT.png" group-title="AL SPORTS",AL: Tring Sport 2 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/3134
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 2 FHD" tvg-logo="" group-title="AL SPORTS",AL: TRING SPORT 2 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/277930
-#EXTINF:-1 tvg-id="tringsport3.al" tvg-name="AL: Tring Sport 3 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TRINGSPORT.png" group-title="AL SPORTS",AL: Tring Sport 3 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211451
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 3 FHD" tvg-logo="" group-title="AL SPORTS",AL: TRING SPORT 3 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/277929
-#EXTINF:-1 tvg-id="tringsport4.al" tvg-name="AL: Tring Sport 4 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TRINGSPORT.png" group-title="AL SPORTS",AL: Tring Sport 4 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211452
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 4 FHD (ONLY MATCH TIME)" tvg-logo="" group-title="AL SPORTS",AL: TRING SPORT 4 FHD (ONLY MATCH TIME)
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/277928
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 1" tvg-logo="http://logo.sltv.site/logo/ALBANIA/KUJTESASPORT1.png" group-title="AL SPORTS",AL: Kujtesa Sport 1
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/225129
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 2" tvg-logo="http://logo.sltv.site/logo/ALBANIA/KUJTESASPORT2.png" group-title="AL SPORTS",AL: Kujtesa Sport 2
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/225130
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 3" tvg-logo="http://logo.sltv.site/logo/ALBANIA/kujtesaSport.png" group-title="AL SPORTS",AL: Kujtesa Sport 3
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/225131
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 4" tvg-logo="http://logo.sltv.site/logo/ALBANIA/KUJTESASPORT4.png" group-title="AL SPORTS",AL: Kujtesa Sport 4
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/225132
-#EXTINF:-1 tvg-id="supersportkosova1.al" tvg-name="AL: K SPORT 1 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/KUJTESASPORT1.png" group-title="AL SPORTS",AL: K SPORT 1 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211389
-#EXTINF:-1 tvg-id="supersportkosova2.al" tvg-name="AL: K SPORT 2 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/KUJTESASPORT2.png" group-title="AL SPORTS",AL: K SPORT 2 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211390
-#EXTINF:-1 tvg-id="supersportkosova3.al" tvg-name="AL: K SPORT 3 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/kujtesaSport.png" group-title="AL SPORTS",AL: K SPORT 3 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211391
-#EXTINF:-1 tvg-id="" tvg-name="AL: K SPORT 4 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/KLAN.png" group-title="AL SPORTS",AL: K SPORT 4 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211392
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 1 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/artSport.png" group-title="AL SPORTS",AL: ART SPORT 1 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211394
-#EXTINF:-1 tvg-id="" tvg-name="AL: Eurosport 1" tvg-logo="http://logo.sltv.site/logo/ALBANIA/EUROSPORT1.png" group-title="AL SPORTS",AL: Eurosport 1
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211453
-#EXTINF:-1 tvg-id="" tvg-name="AL: Eurosport 2" tvg-logo="http://logo.sltv.site/logo/ALBANIA/EUROSPORT2.png" group-title="AL SPORTS",AL: Eurosport 2
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211454
-#EXTINF:-1 tvg-id="" tvg-name="AL: FIGHT Box" tvg-logo="" group-title="AL SPORTS",AL: FIGHT Box
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301729
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Sport" tvg-logo="" group-title="AL SPORTS",AL: RTSH Sport
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301841
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP Art Sport 2" tvg-logo="http://logo.sltv.site/logo/ALBANIA/artSport.png" group-title="AL SPORTS",AL: VIP Art Sport 2
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224503
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP Art Sport 3" tvg-logo="http://logo.sltv.site/logo/ALBANIA/artSport.png" group-title="AL SPORTS",AL: VIP Art Sport 3
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224504
-#EXTINF:-1 tvg-id="" tvg-name="--- ALB VIP ---" tvg-logo="http://logo.sltv.site/logo/flag/al.png" group-title="AL ALBANIA",--- ALB VIP ---
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/301614
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP Ktv Hd" tvg-logo="http://logo.sltv.site/logo/ALBANIA/KTVHD.png" group-title="AL ALBANIA",AL: VIP Ktv Hd
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224443
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP TV Klan" tvg-logo="http://logo.sltv.site/logo/ALBANIA/KLAN.png" group-title="AL ALBANIA",AL: VIP TV Klan
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224447
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP TV Klan  Plus" tvg-logo="http://logo.sltv.site/logo/ALBANIA/KLAN.png" group-title="AL ALBANIA",AL: VIP TV Klan  Plus
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224458
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP Klan Kosova" tvg-logo="http://logo.sltv.site/logo/ALBANIA/KLAN_kosova.png" group-title="AL ALBANIA",AL: VIP Klan Kosova
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224441
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP Alsat M HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/ALSATM.png" group-title="AL ALBANIA",AL: VIP Alsat M HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224448
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP Vizion Pus" tvg-logo="http://logo.sltv.site/logo/ALBANIA/vizion-plus-al.png" group-title="AL ALBANIA",AL: VIP Vizion Pus
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224446
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP Dukagjini" tvg-logo="http://logo.sltv.site/logo/ALBANIA/tv_dukagjini.png" group-title="AL ALBANIA",AL: VIP Dukagjini
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224445
-#EXTINF:-1 tvg-id="rtk.al" tvg-name="AL: VIP Rtk 1" tvg-logo="http://logo.sltv.site/logo/ALBANIA/rtk1.png" group-title="AL ALBANIA",AL: VIP Rtk 1
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224438
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP Rtk 2" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTK2.png" group-title="AL ALBANIA",AL: VIP Rtk 2
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224440
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP Rtv 21" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTV21HD.png" group-title="AL ALBANIA",AL: VIP Rtv 21
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224442
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP RTV 21 Mix" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTV21HD.png" group-title="AL ALBANIA",AL: VIP RTV 21 Mix
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224450
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP RTV 21 Plus" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTV21HD.png" group-title="AL ALBANIA",AL: VIP RTV 21 Plus
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224449
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP Rtv 21 Popullore HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/RTV21HD.png" group-title="AL ALBANIA",AL: VIP Rtv 21 Popullore HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224437
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP TV GLOBI" tvg-logo="" group-title="AL ALBANIA",AL: VIP TV GLOBI
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/298093
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP TV2 GOSTIVAR" tvg-logo="" group-title="AL ALBANIA",AL: VIP TV2 GOSTIVAR
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/295922
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP Tring International" tvg-logo="" group-title="AL ALBANIA",AL: VIP Tring International
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/225325
-#EXTINF:-1 tvg-id="clicktv.al" tvg-name="AL: VIP Click TV" tvg-logo="" group-title="AL ALBANIA",AL: VIP Click TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/225324
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP Sofia HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/SOFIA.png" group-title="AL ALBANIA",AL: VIP Sofia HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/225326
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP T7 HD" tvg-logo="http://logo.sltv.site/logo/ALBANIA/7TV.png" group-title="AL ALBANIA",AL: VIP T7 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224475
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP Tip TV" tvg-logo="http://logo.sltv.site/logo/ALBANIA/TIPTV.png" group-title="AL ALBANIA",AL: VIP Tip TV
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224465
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP Sofia" tvg-logo="http://logo.sltv.site/logo/ALBANIA/SOFIA.png" group-title="AL ALBANIA",AL: VIP Sofia
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224463
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP Pito Stupcat HD" tvg-logo="" group-title="AL ALBANIA",AL: VIP Pito Stupcat HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/253776
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP First  Kids HD" tvg-logo="" group-title="AL LAJME-MUZIKE-KIDS",AL: VIP First  Kids HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/253768
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP FAST&FUNBOX" tvg-logo="" group-title="AL ALBANIA",AL: VIP FAST&FUNBOX
-http://ott.artmott.com/FAST&FUNBOX/index.m3u8?token=55395a73e9bbe48772709b632adcc39480a85483-405a1a1d68aea293bb031775a8c33799-1570185710-1570182110]
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP Tring Tring" tvg-logo="http://logo.sltv.site/logo/ALBANIA/tring_tring.png" group-title="AL ALBANIA",AL: VIP Tring Tring
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224464
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP Tring  Smile" tvg-logo="http://logo.sltv.site/logo/ALBANIA/tring_smile.png" group-title="AL ALBANIA",AL: VIP Tring  Smile
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224462
-#EXTINF:-1 tvg-id="tringlife.al" tvg-name="AL: VIP Tring Life" tvg-logo="" group-title="AL FILMA",AL: VIP Tring Life
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224494
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP Tring Fantasy" tvg-logo="" group-title="AL FILMA",AL: VIP Tring Fantasy
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224492
-#EXTINF:-1 tvg-id="tringcomedy.al" tvg-name="AL: VIP Tring Comedy" tvg-logo="" group-title="AL FILMA",AL: VIP Tring Comedy
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224490
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP SKY COMEDY" tvg-logo="" group-title="AL FILMA",AL: VIP SKY COMEDY
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224489
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP Tring Action" tvg-logo="" group-title="AL FILMA",AL: VIP Tring Action
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224488
-#EXTINF:-1 tvg-id="tringsuper.al" tvg-name="AL: VIP Tring Super" tvg-logo="http://logo.sltv.site/logo/ALBANIA/tring_super.png" group-title="AL FILMA",AL: VIP Tring Super
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/224486
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP SUPER SPORT 1 FHD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP SUPER SPORT 1 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378601
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP SUPER SPORT 2 FHD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP SUPER SPORT 2 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378600
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP SUPER SPORT 3 FHD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP SUPER SPORT 3 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378599
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP SUPER SPORT 4 FHD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP SUPER SPORT 4 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378598
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP SUPER SPORT 5 FHD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP SUPER SPORT 5 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378597
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP SUPER SPORT 6 FHD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP SUPER SPORT 6 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378596
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP SUPER SPORT 7 FHD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP SUPER SPORT 7 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378595
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP SUPER SPORT 1 FHD HEVC" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP SUPER SPORT 1 FHD HEVC
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378594
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP SUPER SPORT 2 FHD HEVC" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP SUPER SPORT 2 FHD HEVC
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378593
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP SUPER SPORT 3 FHD HEVC" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP SUPER SPORT 3 FHD HEVC
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378592
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP SUPER SPORT 4 FHD HEVC" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP SUPER SPORT 4 FHD HEVC
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378591
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP SUPER SPORT 5 FHD HEVC" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP SUPER SPORT 5 FHD HEVC
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378590
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP SUPER SPORT 6 FHD HEVC" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP SUPER SPORT 6 FHD HEVC
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378589
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP SUPER SPORT 7 FHD HEVC" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP SUPER SPORT 7 FHD HEVC
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378588
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP SUPER SPORT 1 HD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP SUPER SPORT 1 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378587
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP SUPER SPORT 2 HD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP SUPER SPORT 2 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378586
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP SUPER SPORT 3 HD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP SUPER SPORT 3 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378585
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP SUPER SPORT 4 HD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP SUPER SPORT 4 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378584
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP SUPER SPORT 5 HD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP SUPER SPORT 5 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378583
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP TRING SPORT NEWS" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP TRING SPORT NEWS
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378580
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP TRING SPORT 1 FHD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP TRING SPORT 1 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378579
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP TRING SPORT 2 FHD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP TRING SPORT 2 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378578
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP TRING SPORT 3 FHD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP TRING SPORT 3 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378577
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP TRING SPORT 1 HD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP TRING SPORT 1 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378571
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP TRING SPORT 2 HD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP TRING SPORT 2 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378570
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP TRING SPORT 3 HD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP TRING SPORT 3 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378569
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP K SPORT 1 FHD HEVC" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP K SPORT 1 FHD HEVC
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378567
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP K SPORT 4 FHD HEVC" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP K SPORT 4 FHD HEVC
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378564
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP K SPORT 1 HD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP K SPORT 1 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378562
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP K SPORT 2 HD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP K SPORT 2 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378561
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP K SPORT 3 HD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP K SPORT 3 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378560
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP K SPORT 4 HD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP K SPORT 4 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378559
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP ART Sport 1 FHD HEVC" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP ART Sport 1 FHD HEVC
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378557
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP ART Sport 2 FHD HEVC" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP ART Sport 2 FHD HEVC
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378556
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP ART Sport 3 FHD HEVC" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP ART Sport 3 FHD HEVC
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378555
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP ART Sport 1 HD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP ART Sport 1 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378554
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP ART Sport 2 HD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP ART Sport 2 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378553
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP ART Sport 3 HD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP ART Sport 3 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378552
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP ART SPORT 4 HD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP ART SPORT 4 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/403872
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP ART SPORT 5 HD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP ART SPORT 5 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/403871
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP ART SPORT 6 HD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP ART SPORT 6 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/403870
-#EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 1 HD" tvg-logo="" group-title="AL SPORTS",AL: OVERSPORT 1 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/388799
-#EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 2 HD" tvg-logo="" group-title="AL SPORTS",AL: OVERSPORT 2 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/388798
-#EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 3 HD" tvg-logo="" group-title="AL SPORTS",AL: OVERSPORT 3 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/395248
-#EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 4 HD" tvg-logo="" group-title="AL SPORTS",AL: OVERSPORT 4 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/395249
-#EXTINF:-1 tvg-id="" tvg-name="AL: VIP RTSH Sport FHD" tvg-logo="" group-title="AL VIP SPORTS",AL: VIP RTSH Sport FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/378551
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="AR: BEIN SPORT NEWS" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_news.jpg" group-title="AR SPORT",AR: BEIN SPORT NEWS
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/30067
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS  GLOBAL" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_global.jpg" group-title="AR SPORT",AR: BEIN SPORTS  GLOBAL
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/142422
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BEIN SPORT XTRA 1 HD" tvg-logo="http://logo.sltv.site/logo/ARABE/beINSportsXtra1.png" group-title="AR SPORT",AR: VIP BEIN SPORT XTRA 1 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/333091
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BEIN SPORT XTRA 2 HD" tvg-logo="http://logo.sltv.site/logo/ARABE/beINSportsXtra2.png" group-title="AR SPORT",AR: VIP BEIN SPORT XTRA 2 HD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/333090
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR: VIP BEIN SPORT 1 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_1.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 1 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/133816
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR: VIP BEIN SPORT 2 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_2.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 2 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/133817
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR: VIP BEIN SPORT 3 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_3.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 3 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/133818
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR: VIP BEIN SPORT 4 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_4.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 4 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/133819
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR: VIP BEIN SPORT 5 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_5.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 5 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/133820
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR: VIP BEIN SPORT 6 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_6.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 6 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/133821
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR: VIP BEIN SPORT 7 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_7.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 7 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/133822
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR: VIP BEIN PREMIUM 1 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_8.jpg" group-title="AR SPORT",AR: VIP BEIN PREMIUM 1 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/133823
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR: VIP BEIN PREMIUM 2 FHD" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSportsPremium2.png" group-title="AR SPORT",AR: VIP BEIN PREMIUM 2 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/139572
-#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="AR: VIP BEIN PREMIUM 3 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_10.jpg" group-title="AR SPORT",AR: VIP BEIN PREMIUM 3 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/139573
-#EXTINF:-1 tvg-id="beinsports11.qa" tvg-name="AR: VIP BEIN ENGLISH 1 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_11.jpg" group-title="AR SPORT",AR: VIP BEIN ENGLISH 1 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/139574
-#EXTINF:-1 tvg-id="beinsports12.qa" tvg-name="AR: VIP BEIN ENGLISH 2 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_12.jpg" group-title="AR SPORT",AR: VIP BEIN ENGLISH 2 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/139575
-#EXTINF:-1 tvg-id="beinsports13.qa" tvg-name="AR: VIP BEIN ENGLISH 3 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_13.jpg" group-title="AR SPORT",AR: VIP BEIN ENGLISH 3 FHD
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/133824
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORT NBA HD 1080p" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSportsNba.png" group-title="AR SPORT",AR: BEIN SPORT NBA HD 1080p
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/193355
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR: VIP BEIN SPORT 1 HD Hevc" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_1.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 1 HD Hevc
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/209441
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR: VIP BEIN SPORT 2 HD Hevc" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT21.2MB.png" group-title="AR SPORT",AR: VIP BEIN SPORT 2 HD Hevc
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211432
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR: VIP BEIN SPORT 3 HD Hevc" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT31.2MB.png" group-title="AR SPORT",AR: VIP BEIN SPORT 3 HD Hevc
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211433
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR: VIP BEIN SPORT 4 HD Hevc" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT41.2MB.png" group-title="AR SPORT",AR: VIP BEIN SPORT 4 HD Hevc
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211434
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR: VIP BEIN SPORT 5 HD Hevc" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT51.2MB.png" group-title="AR SPORT",AR: VIP BEIN SPORT 5 HD Hevc
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211435
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR: VIP BEIN SPORT 6 HD Hevc" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT61.2MB.png" group-title="AR SPORT",AR: VIP BEIN SPORT 6 HD Hevc
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211436
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR: VIP BEIN SPORT 7 HD Hevc" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT71.2MB.png" group-title="AR SPORT",AR: VIP BEIN SPORT 7 HD Hevc
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211437
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR: VIP BEIN PREMIUM 1 HD Hevc" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT81.2MB.png" group-title="AR SPORT",AR: VIP BEIN PREMIUM 1 HD Hevc
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211438
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR: VIP BEIN PREMIUM 2 HD Hevc" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSportsPremium2.png" group-title="AR SPORT",AR: VIP BEIN PREMIUM 2 HD Hevc
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211439
-#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="AR: VIP BEIN PREMIUM 3 HD Hevc" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT101.2MB.png" group-title="AR SPORT",AR: VIP BEIN PREMIUM 3 HD Hevc
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/211440
-#EXTINF:-1 tvg-id="beinsports11.qa" tvg-name="AR: VIP BEIN ENGLISH 1 HD Hevc" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_11hd.jpg" group-title="AR SPORT",AR: VIP BEIN ENGLISH 1 HD Hevc
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/295924
-#EXTINF:-1 tvg-id="beinsports12.qa" tvg-name="AR: VIP BEIN ENGLISH 2 HD Hevc" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_12hd.jpg" group-title="AR SPORT",AR: VIP BEIN ENGLISH 2 HD Hevc
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/295925
-#EXTINF:-1 tvg-id="beinsports13.qa" tvg-name="AR: VIP BEIN ENGLISH 3 HD Hevc" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSportsEnglish3.png" group-title="AR SPORT",AR: VIP BEIN ENGLISH 3 HD Hevc
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/295926
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR: VIP BEIN SPORT 01 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_1.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 01 SD H264
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/294134
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR: VIP BEIN SPORT 02 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_2.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 02 SD H264
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/294133
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR: VIP BEIN SPORT 03 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_3.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 03 SD H264
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/294132
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR: VIP BEIN SPORT 04 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_4.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 04 SD H264
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/294131
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR: VIP BEIN SPORT 05 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_5.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 05 SD H264
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/294130
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR: VIP BEIN SPORT 06 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_6.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 06 SD H264
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/294129
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR: VIP BEIN SPORT 07 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_7.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 07 SD H264
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/294128
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR: VIP BEIN PREMIUM 1 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_8.jpg" group-title="AR SPORT",AR: VIP BEIN PREMIUM 1 SD H264
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/294127
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR: VIP BEIN PREMIUM 2 SD H264" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSportsPremium2.png" group-title="AR SPORT",AR: VIP BEIN PREMIUM 2 SD H264
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/294126
-#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="AR: VIP BEIN PREMIUM 3 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_10.jpg" group-title="AR SPORT",AR: VIP BEIN PREMIUM 3 SD H264
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/294125
-#EXTINF:-1 tvg-id="beinsports11.qa" tvg-name="AR: VIP BEIN ENGLISH 1 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_11.jpg" group-title="AR SPORT",AR: VIP BEIN ENGLISH 1 SD H264
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/294124
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BEIN ENGLISH 2 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_12.jpg" group-title="AR SPORT",AR: VIP BEIN ENGLISH 2 SD H264
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/333089
-#EXTINF:-1 tvg-id="beinsports13.qa" tvg-name="AR: VIP BEIN ENGLISH 3 SD H264" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSportsEnglish3.png" group-title="AR SPORT",AR: VIP BEIN ENGLISH 3 SD H264
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/294122
-#EXTINF:-1 tvg-id="beinsports14.qa" tvg-name="AR: VIP BEIN FRANCE 1 SD H264" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSportsFrance1.png" group-title="AR SPORT",AR: VIP BEIN FRANCE 1 SD H264
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/294121
-#EXTINF:-1 tvg-id="beinsports15.qa" tvg-name="AR: VIP BEIN FRANCE 2 SD H264" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSportsFrance2.png" group-title="AR SPORT",AR: VIP BEIN FRANCE 2 SD H264
-http://hd-max.org:8080/NW3A39wTqg/D1KCHdcbmL/294120
-
-
-
+#EXTINF:0 tvg-id="RTSH.al" group-title="Channels",RTSH
+http://stream.bestvideostreaming.is/8701/mpegts
+#EXTINF:0 tvg-id="RTK.al" group-title="Channels",RTK
+http://stream.bestvideostreaming.is/8702/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIZION+
+http://stream.bestvideostreaming.is/8703/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TOPCHANNEL
+http://stream.bestvideostreaming.is/8708/mpegts
+#EXTINF:0 tvg-id="KlanTV.al" group-title="Channels",KLAN
+http://stream.bestvideostreaming.is/8704/mpegts
+#EXTINF:0 tvg-id="KTV.al" group-title="Channels",KTV
+http://stream.bestvideostreaming.is/8705/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",T7
+http://stream.bestvideostreaming.is/8904/mpegts
+#EXTINF:0 tvg-id="RTV21.al" group-title="Channels",RTV21
+http://stream.bestvideostreaming.is/8748/mpegts
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Channels",KLANKOSOVA
+http://stream.bestvideostreaming.is/8706/mpegts
+#EXTINF:0 tvg-id="Kanal10.no" group-title="Channels",KANAL10
+http://stream.bestvideostreaming.is/8849/mpegts
+#EXTINF:0 tvg-id="AlsatM.al" group-title="Channels",ALSATM
+http://stream.bestvideostreaming.is/8713/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV21MK
+http://stream.bestvideostreaming.is/8790/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVDUKAGJINI
+http://stream.bestvideostreaming.is/8788/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KLANPLUS
+http://stream.bestvideostreaming.is/8720/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALBTVUSA
+http://stream.bestvideostreaming.is/8711/mpegts
+#EXTINF:0 tvg-id="ATV.de" group-title="Channels",ATV
+http://stream.bestvideostreaming.is/8709/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",FIRSTTV
+http://stream.bestvideostreaming.is/8717/mpegts
+#EXTINF:0 tvg-id="MTV2.mk" group-title="Channels",MKTV2
+http://stream.bestvideostreaming.is/8728/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTK3
+http://stream.bestvideostreaming.is/8902/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTK4
+http://stream.bestvideostreaming.is/8903/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",MFMMUSICTV
+http://stream.bestvideostreaming.is/7711/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",FAXNEWS
+http://stream.bestvideostreaming.is/10022/mpegts
+#EXTINF:0 tvg-id="ABCNews.al" group-title="Channels",ABCNEWS
+http://stream.bestvideostreaming.is/10023/mpegts
+#EXTINF:0 tvg-id="news24" group-title="Channels",NEWS24
+http://stream.bestvideostreaming.is/8724/mpegts
+#EXTINF:0 tvg-id="TopNews.al" group-title="Channels",TOPNEWS
+http://stream.bestvideostreaming.is/10025/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARTANEWS
+http://stream.bestvideostreaming.is/8745/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",A1REPORT
+http://stream.bestvideostreaming.is/8707/mpegts
+#EXTINF:0 tvg-id="OraNews.al" group-title="Channels",ORANEWS
+http://stream.bestvideostreaming.is/8715/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",7NEWS
+http://stream.bestvideostreaming.is/8761/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SSPORTNEWSSD
+http://eu-ams.bestvideostreaming.is/10030/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPERSPORT2
+http://eu-ams.bestvideostreaming.is/8734/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPERSPORT3
+http://eu-ams.bestvideostreaming.is/8741/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPERSPORT4
+http://eu-ams.bestvideostreaming.is/8743/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPERSPORT5
+http://eu-ams.bestvideostreaming.is/8736/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KSPORT1
+http://eu-ams.bestvideostreaming.is/10035/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KSPORT2
+http://eu-ams.bestvideostreaming.is/10036/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRINGSPORTNEWS
+http://stream.bestvideostreaming.is/8785/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRINGSPORT1
+http://stream.bestvideostreaming.is/8796/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRINGSPORT2
+http://stream.bestvideostreaming.is/8797/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRINGSPORT3
+http://eu-ams.bestvideostreaming.is/8798/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRINGSPORT4
+http://eu-ams.bestvideostreaming.is/8799/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTPLUS1
+http://eu-ams.bestvideostreaming.is/7001/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTPLUS2
+http://eu-ams.bestvideostreaming.is/7002/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTPLUS3
+http://eu-ams.bestvideostreaming.is/7003/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTPLUS4
+http://eu-ams.bestvideostreaming.is/7004/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSHSHQIP
+http://stream.bestvideostreaming.is/8721/mpegts
+#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="Channels",TRINGSHQIP
+http://stream.bestvideostreaming.is/8762/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",THD
+http://stream.bestvideostreaming.is/8746/mpegts
+#EXTINF:0 tvg-id="3plus.ch" group-title="Channels",3PLUS
+http://stream.bestvideostreaming.is/8773/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILM1SD
+http://stream.bestvideostreaming.is/8730/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILM2SD
+http://stream.bestvideostreaming.is/8731/mpegts
+#EXTINF:0 tvg-id="FilmHits+1.al" group-title="Channels",FILMHITS
+http://stream.bestvideostreaming.is/8755/mpegts
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="Channels",FILMAKSION
+http://stream.bestvideostreaming.is/8742/mpegts
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="Channels",FILMTHRILLER
+http://stream.bestvideostreaming.is/8757/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",EUROFILM
+http://stream.bestvideostreaming.is/8758/mpegts
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="Channels",FILMDRAME
+http://stream.bestvideostreaming.is/8727/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILMAUTOR
+http://stream.bestvideostreaming.is/8753/mpegts
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="Channels",FILMKOMEDI
+http://stream.bestvideostreaming.is/8752/mpegts
+#EXTINF:0 tvg-id="TringComedy.al" group-title="Channels",TRINGCOMEDY
+http://stream.bestvideostreaming.is/8767/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRINGFANTASY
+http://stream.bestvideostreaming.is/8766/mpegts
+#EXTINF:0 tvg-id="TringSuper.al" group-title="Channels",TRINGSUPER
+http://stream.bestvideostreaming.is/8770/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRINGACTION
+http://stream.bestvideostreaming.is/8769/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KANALDDRAMA
+http://stream.bestvideostreaming.is/6263/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",JOLLYHD
+http://stream.bestvideostreaming.is/8774/mpegts
+#EXTINF:0 tvg-id="Stinet.al" group-title="Channels",STINET
+http://stream.bestvideostreaming.is/8751/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRINGLIVING
+http://stream.bestvideostreaming.is/8771/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",STARTVHD
+http://stream.bestvideostreaming.is/8781/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY7
+http://stream.bestvideostreaming.is/8889/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKYAKSION
+http://stream.bestvideostreaming.is/8880/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKYKOMEDI
+http://stream.bestvideostreaming.is/8881/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKYMAX
+http://stream.bestvideostreaming.is/8882/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKYDRAME
+http://stream.bestvideostreaming.is/8883/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKYNOVELA
+http://stream.bestvideostreaming.is/8884/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",FAMILYHD
+http://stream.bestvideostreaming.is/8754/mpegts
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Channels",NATGEOGRAPHIC
+http://stream.bestvideostreaming.is/8725/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXPNATYRA
+http://stream.bestvideostreaming.is/8739/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXPSHKENCE
+http://stream.bestvideostreaming.is/8726/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXPHISTORI
+http://stream.bestvideostreaming.is/8729/mpegts
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="Channels",TRINGPLANET
+http://stream.bestvideostreaming.is/8764/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRINGWORLD
+http://stream.bestvideostreaming.is/8763/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRINGHISTORI
+http://stream.bestvideostreaming.is/8765/mpegts
+#EXTINF:0 tvg-id="animal_rus" group-title="Channels",ANIMALPLANET
+http://stream.bestvideostreaming.is/8886/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKYPLANET
+http://stream.bestvideostreaming.is/8888/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRINGLIFE
+http://stream.bestvideostreaming.is/8768/mpegts
+#EXTINF:0 tvg-id="Muse.al" group-title="Channels",MUSE
+http://stream.bestvideostreaming.is/8778/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRINGSMILE
+http://stream.bestvideostreaming.is/8772/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVMITROVICA
+http://stream.bestvideostreaming.is/8716/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",21MIX
+http://stream.bestvideostreaming.is/8756/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTVFONTANA
+http://stream.bestvideostreaming.is/8852/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TAOTAO
+http://stream.bestvideostreaming.is/10090/mpegts
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="Channels",BABYTV
+http://stream.bestvideostreaming.is/8747/mpegts
+#EXTINF:0 tvg-id="BangBang.al" group-title="Channels",BANGBANG
+http://stream.bestvideostreaming.is/8737/mpegts
+#EXTINF:0 tvg-id="CufoTV.al" group-title="Channels",CUFO
+http://stream.bestvideostreaming.is/8738/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TIPTV
+http://stream.bestvideostreaming.is/8776/mpegts
+#EXTINF:0 tvg-id="Sofia.al" group-title="Channels",SOFIA
+http://stream.bestvideostreaming.is/8820/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRINGKIDS
+http://stream.bestvideostreaming.is/8777/mpegts
+#EXTINF:0 tvg-id="TringTring.al" group-title="Channels",TRINGTRING
+http://stream.bestvideostreaming.is/8775/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSHKIDS
+http://stream.bestvideostreaming.is/8744/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALBUK
+http://stream.bestvideostreaming.is/8794/mpegts
+#EXTINF:0 tvg-id="Elrodi.al" group-title="Channels",ELRODI
+http://stream.bestvideostreaming.is/8718/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOLK+
+http://stream.bestvideostreaming.is/8759/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV21POPULLORE
+http://stream.bestvideostreaming.is/8749/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUZIKEFOLKLORITE
+http://stream.bestvideostreaming.is/8735/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",EUROAL
+http://stream.bestvideostreaming.is/8719/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DASMATV
+http://stream.bestvideostreaming.is/8793/mpegts
+#EXTINF:0 tvg-id="BBF.al" group-title="Channels",BBF
+http://stream.bestvideostreaming.is/8795/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",A-MOLTV
+http://stream.bestvideostreaming.is/7722/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV21PLUS
+http://stream.bestvideostreaming.is/8750/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTSHMUZIKE
+http://stream.bestvideostreaming.is/8052/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTVKOSOVA
+http://stream.bestvideostreaming.is/8853/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVOPOJA
+http://stream.bestvideostreaming.is/8723/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVDIASPORA
+http://stream.bestvideostreaming.is/8779/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVOPINION
+http://stream.bestvideostreaming.is/8819/mpegts
+#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="Channels",TURBO
+http://stream.bestvideostreaming.is/8839/mpegts
+#EXTINF:0 tvg-id="MyMusic.al" group-title="Channels",MYMUSIC
+http://stream.bestvideostreaming.is/8821/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVKOPLIKU
+http://stream.bestvideostreaming.is/2508/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVSHENJA
+http://stream.bestvideostreaming.is/8850/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVLLAPI
+http://stream.bestvideostreaming.is/8823/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KLANMAQEDONIA
+http://stream.bestvideostreaming.is/8789/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVBESA
+http://stream.bestvideostreaming.is/8817/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",PEACETV
+http://stream.bestvideostreaming.is/8792/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTVISLAM
+http://stream.bestvideostreaming.is/8714/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTVPENDIMI
+http://stream.bestvideostreaming.is/8786/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DRITATV
+http://stream.bestvideostreaming.is/8890/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SYRIVISION
+http://stream.bestvideostreaming.is/8784/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVDIELLI
+http://stream.bestvideostreaming.is/8818/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BOINTV
+http://stream.bestvideostreaming.is/10127/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRINGINTERNATIONAL
+http://stream.bestvideostreaming.is/8802/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BIGBROTHER1
+http://stream.bestvideostreaming.is/8803/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BIGBROTHER2
+http://stream.bestvideostreaming.is/8804/mpegts
+#EXTINF:0 tvg-id="EuroNews.al" group-title="Channels",EURONEWS
+http://stream.bestvideostreaming.is/8611/mpegts
+#EXTINF:0 tvg-id="Bloomberg.nws" group-title="Channels",BLOOMBERG
+http://stream.bestvideostreaming.is/8607/mpegts
+#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",PRO7
+http://stream.bestvideostreaming.is/8615/mpegts
+#EXTINF:0 tvg-id="RTL.de" group-title="Channels",RTLDE
+http://stream.bestvideostreaming.is/8601/mpegts
+#EXTINF:0 tvg-id="RTL2.de" group-title="Channels",RTL2DE
+http://stream.bestvideostreaming.is/4441/mpegts
+#EXTINF:0 tvg-id="SuperRTL.de" group-title="Channels",SUPERRTL
+http://stream.bestvideostreaming.is/4440/mpegts
+#EXTINF:0 tvg-id="TOGGOplus.de" group-title="Channels",TOGGOPLUS
+http://stream.bestvideostreaming.is/8804/mpegts
+#EXTINF:0 tvg-id="Vox.de" group-title="Channels",VOX
+http://stream.bestvideostreaming.is/4478/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DEUTCHEWELLE
+http://stream.bestvideostreaming.is/8622/mpegts
+#EXTINF:0 tvg-id="ARTE.de" group-title="Channels",ARTE
+http://stream.bestvideostreaming.is/4468/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZDFHD
+http://stream.bestvideostreaming.is/8624/mpegts
+#EXTINF:0 tvg-id="Kabel.de" group-title="Channels",KABEL1
+http://stream.bestvideostreaming.is/8625/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARD1
+http://stream.bestvideostreaming.is/8628/mpegts
+#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",SAT1
+http://stream.bestvideostreaming.is/8626/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",N24DE
+http://stream.bestvideostreaming.is/8627/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SRFINFO
+http://stream.bestvideostreaming.is/8803/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEM1
+http://stream.bestvideostreaming.is/8805/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTLHR
+http://stream.bestvideostreaming.is/8807/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KRALMUSIC
+http://stream.bestvideostreaming.is/8806/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RAINEWS
+http://stream.bestvideostreaming.is/8841/mpegts
+#EXTINF:0 tvg-id="Rai1.it" group-title="Channels",RAI1
+http://stream.bestvideostreaming.is/4467/mpegts
+#EXTINF:0 tvg-id="Rai2.it" group-title="Channels",RAI2
+http://stream.bestvideostreaming.is/8854/mpegts
+#EXTINF:0 tvg-id="Rai3.it" group-title="Channels",RAI3
+http://stream.bestvideostreaming.is/4488/mpegts
+#EXTINF:0 tvg-id="Rai4.it" group-title="Channels",RAI4
+http://stream.bestvideostreaming.is/8855/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",MEDIASETITALIA
+http://stream.bestvideostreaming.is/8847/mpegts
+#EXTINF:0 tvg-id="RaiMovie.it" group-title="Channels",RAIMOVIE
+http://stream.bestvideostreaming.is/8856/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RAIGULP
+http://stream.bestvideostreaming.is/8857/mpegts
+#EXTINF:0 tvg-id="RaiYoyo.it" group-title="Channels",RAIYOYO
+http://stream.bestvideostreaming.is/8858/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALFAKANALI
+http://stream.bestvideostreaming.is/8402/mpegts
+#EXTINF:0 tvg-id="ANT1.gr" group-title="Channels",ANT1
+http://stream.bestvideostreaming.is/8401/mpegts
+#EXTINF:0 tvg-id="NEPIT1.gr" group-title="Channels",ERT1
+http://stream.bestvideostreaming.is/8403/mpegts
+#EXTINF:0 tvg-id="vouli.gr" group-title="Channels",VOULI
+http://stream.bestvideostreaming.is/8405/mpegts
+#EXTINF:0 tvg-id="BFMTV.fr" group-title="Channels",BFMTV
+http://stream.bestvideostreaming.is/7741/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SAT1GOLD
+http://stream.bestvideostreaming.is/7731/mpegts
+#EXTINF:0 tvg-id="NTV.uk" group-title="Channels",NTV
+http://stream.bestvideostreaming.is/7733/mpegts
+#EXTINF:0 tvg-id="OBN.svn" group-title="Channels",OBN
+http://stream.bestvideostreaming.is/7736/mpegts
+#EXTINF:0 tvg-id="tv5monde" group-title="Channels",TV5MONDE
+http://stream.bestvideostreaming.is/10169/mpegts
+#EXTINF:0 tvg-id="TRT1.tu" group-title="Channels",TRT1
+http://stream.bestvideostreaming.is/8122/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRTTURK
+http://stream.bestvideostreaming.is/8620/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRTHABER
+http://stream.bestvideostreaming.is/8127/mpegts
+#EXTINF:0 tvg-id="TRTworld.nws" group-title="Channels",TRTWORLD
+http://stream.bestvideostreaming.is/8125/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRTMUZIKE
+http://stream.bestvideostreaming.is/8123/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRTAVAZ
+http://stream.bestvideostreaming.is/8126/mpegts
+#EXTINF:0 tvg-id="ATV.de" group-title="Channels",ATV
+http://stream.bestvideostreaming.is/8410/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KANALD
+http://stream.bestvideostreaming.is/8120/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRTCOCUK
+http://stream.bestvideostreaming.is/8411/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRTSPOR
+http://stream.bestvideostreaming.is/8412/mpegts
+#EXTINF:0 tvg-id="HRT1.svn" group-title="Channels",HRT1
+http://stream.bestvideostreaming.is/4453/mpegts
+#EXTINF:0 tvg-id="HRT3.hr" group-title="Channels",HRT3
+http://stream.bestvideostreaming.is/4463/mpegts
+#EXTINF:0 tvg-id="HRT4.hr" group-title="Channels",HRT4
+http://stream.bestvideostreaming.is/4454/mpegts
+#EXTINF:0 tvg-id="RTLplus.hr" group-title="Channels",RTLPLUS
+http://stream.bestvideostreaming.is/4489/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",HAYATBOSNA
+http://stream.bestvideostreaming.is/8829/mpegts
+#EXTINF:0 tvg-id="BHTV1.rs" group-title="Channels",BHT1
+http://stream.bestvideostreaming.is/8828/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUSICCHANNEL1
+http://stream.bestvideostreaming.is/4474/mpegts
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Channels",PRO7MAXX
+http://stream.bestvideostreaming.is/4461/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",HITSTV
+http://stream.bestvideostreaming.is/7732/mpegts
+#EXTINF:0 tvg-id="HayatFolk.hr" group-title="Channels",HAYATFOLK
+http://stream.bestvideostreaming.is/7734/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",LUXE
+http://stream.bestvideostreaming.is/8832/mpegts
+#EXTINF:0 tvg-id="HistoryChannel.cz" group-title="Channels",HISTORYCHANNEL
+http://stream.bestvideostreaming.is/4498/mpegts
+#EXTINF:0 tvg-id="RussiaToday.uk" group-title="Channels",RT
+http://stream.bestvideostreaming.is/4508/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",EHD
+http://stream.bestvideostreaming.is/8612/mpegts
+#EXTINF:0 tvg-id="AlJazeeraBalkans.svn" group-title="Channels",ALJAZEERABALKANS
+http://stream.bestvideostreaming.is/8827/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALJAZEERAENGLISH
+http://stream.bestvideostreaming.is/4493/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVSHEST
+http://stream.bestvideostreaming.is/8701_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTKEST
+http://stream.bestvideostreaming.is/8702_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",MKTV2EST
+http://stream.bestvideostreaming.is/8728_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TOPCHANNELEST
+http://stream.bestvideostreaming.is/8708_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KLANEST
+http://stream.bestvideostreaming.is/8704_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIZION+EST
+http://stream.bestvideostreaming.is/8703_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KTVEST
+http://stream.bestvideostreaming.is/8705_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV21EST
+http://stream.bestvideostreaming.is/8748_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KLANKOSOVAEST
+http://stream.bestvideostreaming.is/8706_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALSATMEST
+http://stream.bestvideostreaming.is/8713_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KLANPLUSEST
+http://stream.bestvideostreaming.is/8720_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV21MKEST
+http://stream.bestvideostreaming.is/8790_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVDUKAGJINIEST
+http://stream.bestvideostreaming.is/8788_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",T7EST
+http://stream.bestvideostreaming.is/8904_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRINGSHQIPEST
+http://stream.bestvideostreaming.is/8762_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",THDEST
+http://stream.bestvideostreaming.is/8746_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",3PLUSEST
+http://stream.bestvideostreaming.is/8773_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILMAKSIONEST
+http://stream.bestvideostreaming.is/8742_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",JOLLYHDEST
+http://stream.bestvideostreaming.is/8774_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRINGLIVINGEST
+http://stream.bestvideostreaming.is/8771_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KANALDDRAMAEST
+http://stream.bestvideostreaming.is/6263_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",BABYTVEST
+http://stream.bestvideostreaming.is/8747_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ORANEWSEST
+http://stream.bestvideostreaming.is/8715_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SS1EST
+http://stream.bestvideostreaming.is/8733_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SS2EST
+http://stream.bestvideostreaming.is/8734_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SS3EST
+http://stream.bestvideostreaming.is/8741_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRINGSPORT1EST
+http://stream.bestvideostreaming.is/8796_6h/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTKHD
+http://stream.bestvideostreaming.is/3016/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",OPCHANNELHD
+http://stream.bestvideostreaming.is/3018/mpegts
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Channels",KLANHD
+http://stream.bestvideostreaming.is/3001/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIZION+HD
+http://stream.bestvideostreaming.is/8003/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KTVHD
+http://stream.bestvideostreaming.is/3015/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV21HD
+http://stream.bestvideostreaming.is/3008/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KLANKSHD
+http://stream.bestvideostreaming.is/3017/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRINGSPORT1HD
+http://stream.bestvideostreaming.is/3011/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRINGSPORT2HD
+http://stream.bestvideostreaming.is/3012/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPERSPORT2HD
+http://stream.bestvideostreaming.is/3002/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPERSPORT3HD
+http://stream.bestvideostreaming.is/3003/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPERSPORT4HD
+http://stream.bestvideostreaming.is/3004/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",JOLLYHD
+http://stream.bestvideostreaming.is/3014/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",LIVINGHD
+http://stream.bestvideostreaming.is/3013/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVDUKAGJINIHD
+http://stream.bestvideostreaming.is/3010/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILM1HD
+http://stream.bestvideostreaming.is/3005/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILM2HD
+http://stream.bestvideostreaming.is/3006/mpegts
+#EXTINF:0 tvg-id="FOXmovies.svn" group-title="Channels",FOXMOVIES
+http://stream.bestvideostreaming.is/10252/mpegts
+#EXTINF:0 tvg-id="FOXLife.bg" group-title="Channels",FOXLIFE
+http://stream.bestvideostreaming.is/8861/mpegts
+#EXTINF:0 tvg-id="FOXCrime.bg" group-title="Channels",FOXCRIME
+http://stream.bestvideostreaming.is/8862/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Channels",FASHIONBOX
+http://stream.bestvideostreaming.is/8825/mpegts
+#EXTINF:0 tvg-id="360TuneBox.cz" group-title="Channels",TUNEBOX
+http://stream.bestvideostreaming.is/8826/mpegts
+#EXTINF:0 tvg-id="Fightbox.eu" group-title="Channels",FIGHTBOX
+http://stream.bestvideostreaming.is/4447/mpegts
+#EXTINF:0 tvg-id="Arthouse.hr" group-title="Channels",ARTHOUSE
+http://stream.bestvideostreaming.is/8836/mpegts
+#EXTINF:0 tvg-id="ORF2.at" group-title="Channels",ORF2
+http://stream.bestvideostreaming.is/8864/mpegts
