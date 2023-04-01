@@ -1,5 +1,5 @@
 #EXTM3U
-EXTINF:-1 tvg-id="" tvg-name="========= ALBANIA  =========" tvg-logo="" group-title="ALBANIA",========= ALBANIA  =========
+#EXTINF:-1 tvg-id="" tvg-name="========= ALBANIA  =========" tvg-logo="" group-title="ALBANIA",========= ALBANIA  =========
 http://solo-v7.sytes.net:2082/live/tonileslinewstreQ@/2YXYvQXFMD/2215.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="========= GJENERALISTE KOSOVARE  =========" tvg-logo="" group-title="ALBANIA",========= GJENERALISTE KOSOVARE  =========
 http://solo-v7.sytes.net:2082/live/tonileslinewstreQ@/2YXYvQXFMD/2216.m3u8
